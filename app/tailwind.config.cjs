@@ -5,6 +5,8 @@ module.exports = {
     extend: {
       fontFamily: {
         inter: ["Inter", "Avenir", "Helvetica", "Arial", "sans-serif"],
+        "Comfort":['Comfortaa', 'cursive'],
+        "Nunito":['Nunito', 'sans-serif'],
       },
       dropShadow: {
         logo: "0 0 2em #646cffaa",
